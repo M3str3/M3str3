@@ -23,6 +23,3 @@ Sometimes, I use GitHub as my personal cloud. Other times, I attempt to break wh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-jose-mestre-villagrasa-b79493183/)
 [![Website](https://img.shields.io/badge/M3str3-ffffff?style=for-the-badge&logo=kalilinux&logoColor=black)](https://m3str3.com/?lang=en)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xRootKit)
-
-<br>
-> *Thanks for dropping by. If you share this borderline-obsessive fascination with code, you’re my kind of people. Welcome to my little corner of chaos.*
