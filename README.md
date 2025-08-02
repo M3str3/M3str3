@@ -3,8 +3,6 @@ I’m a cybersecurity enthusiast and a self-confessed code addict. I’m convinc
 
 Sometimes, I use GitHub as my personal cloud. Other times, I attempt to break what I build, or build what I break, all in the name of learning. So if my repositories look random or borderline chaotic, just consider them a testament to my constant (and slightly unhinged) experimentation.
 
-<br>
-
 > *"When I wrote this code, only God and I understood it.  
 > Now, only God knows."*  
 > – Shakespeare (or someone equally dramatic)
@@ -20,6 +18,6 @@ Sometimes, I use GitHub as my personal cloud. Other times, I attempt to break wh
 
 ## Wanna Connect?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-jose-mestre-villagrasa-b79493183/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-josé-mestre-villagrasa-b79493183/)
 [![Website](https://img.shields.io/badge/M3str3-ffffff?style=for-the-badge&logo=kalilinux&logoColor=black)](https://m3str3.com)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xRootKit)
