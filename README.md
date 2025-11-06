@@ -9,9 +9,10 @@ Yes, I like Rust.
 
 | Project      | What it is                                   | Notes                          |
 |--------------|-----------------------------------------------|--------------------------------|
-| **HexSpell** | Executable parsing library in Rust             | Minimal deps                    |
-| **RootCause**| A SAST written in Rust                         | Rough, good for learning        |
-| **Ransomware** | Full-operation simulation (blog, server config) | For learning and defense        |
+| **HexSpell** | Executable parsing library for Rust             | Zero external deps, minimalist approach |
+| **Void Loader** | PoC of a “Cavity Fractioned Loader” (Black Mass Vol.1) | Loads fractionated binaries directly in memory |
+| **RootCause**| SAST Scanner                         | Rough, good for learning        |
+| **Ransomware** | Full-operation simulation (blog, server config) | Built for research & defense |
 
 ## Wanna connect? (_Most → least formal_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-josé-mestre-villagrasa-b79493183/)
